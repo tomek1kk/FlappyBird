@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1518198130 source:c:\users\tomek1kk\desktop\sdl projekty\flappyy\main.cpp
+	"wall.h"
+	<sstream>
+	<SDL_ttf.h>
+
+1518184412 c:\users\tomek1kk\desktop\sdl projekty\flappyy\include\bird.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+
+1518186810 source:c:\users\tomek1kk\desktop\sdl projekty\flappyy\src\bird.cpp
+	"bird.h"
+
+1518131511 c:\users\tomek1kk\desktop\sdl projekty\flappyy\include\texturemanager.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1518186694 c:\users\tomek1kk\desktop\sdl projekty\flappyy\include\wall.h
+	"bird.h"
+	<time.h>
+
+1518188717 source:c:\users\tomek1kk\desktop\sdl projekty\flappyy\src\wall.cpp
+	"wall.h"
+
+1518186810 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\flappyy\src\bird.cpp
+	"bird.h"
+
+1518184412 c:\users\tomek1kk\desktop\programowanie\sdl projekty\flappyy\include\bird.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+
+1518188717 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\flappyy\src\wall.cpp
+	"wall.h"
+
+1518186694 c:\users\tomek1kk\desktop\programowanie\sdl projekty\flappyy\include\wall.h
+	"bird.h"
+	<time.h>
+
+1518268259 source:c:\users\tomek1kk\desktop\programowanie\sdl projekty\flappyy\main.cpp
+	"wall.h"
+	<sstream>
+	<SDL_ttf.h>
+	<fstream>
+
